@@ -27,3 +27,9 @@ After installing, make sure to reload.
 ### Code
 
 MIT License: https://github.com/Suryansh1004/Dark-mode-ext/blob/master/LICENSE or see [the `LICENSE` file](https://github.com/Suryansh1004/Dark-mode-ext/blob/master/LICENSE).
+<br><br><br>
+<img src="1.jpg"><br><br> 
+<img src="2.jpg"><br><br>
+<img src="3.jpg"><br><br>
+<img src="4.jpg"><br><br>
+
